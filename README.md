@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+<h2>Estudo para lógica de programação</h2>
+</div>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/110649796/208548714-b636557f-7020-4d2d-a0ee-c81c00b851bb.png" width="600px" height="500px"/>
 </div>
 
